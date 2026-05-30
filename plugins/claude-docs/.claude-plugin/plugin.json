@@ -1,0 +1,8 @@
+{
+  "name": "claude-docs",
+  "description": "Expert subagent that answers Claude Code & Claude Agent SDK questions, grounded in the official online documentation (code.claude.com/docs).",
+  "version": "1.0.0",
+  "author": {
+    "name": "SlaVinci"
+  }
+}

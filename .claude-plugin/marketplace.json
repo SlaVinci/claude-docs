@@ -1,0 +1,13 @@
+{
+  "name": "slavinci",
+  "owner": {
+    "name": "SlaVinci"
+  },
+  "plugins": [
+    {
+      "name": "claude-docs",
+      "source": "./plugins/claude-docs",
+      "description": "Expert subagent that answers Claude Code & Claude Agent SDK questions, grounded in the official online documentation."
+    }
+  ]
+}
